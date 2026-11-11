@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:** Võ Thị Thanh Thùy
 - **Lớp:** HCMKS26CNTT2
-- **Link repository:**
+- **Link repository:** https://github.com/TT-IT108/HCM_KS26_CNTT2_Nhap-mon-CNTT_Hackathon02.git
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
