@@ -110,7 +110,7 @@ d-----        11/11/2026   1:57 PM                web
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
-| 1 |  |  |  |
+| 1 | network  | logo-sound.png | sửa thành logo-sound.png trong web\images\logo-soundlab.png |
 | 2 |  |  |  |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
@@ -125,7 +125,7 @@ d-----        11/11/2026   1:57 PM                web
 ### Câu tìm kiếm Google
 
 ```text
-(Ghi câu tìm kiếm vào đây – xoá dòng này)
+site:stackoverflow.com "ERR_FILE_NOT_FOUND"
 
 ```
 
